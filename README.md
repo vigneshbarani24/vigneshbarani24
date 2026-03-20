@@ -31,12 +31,9 @@ I maintain [SAP Superpowers](https://github.com/vigneshbarani24/sap-superpowers)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Contribution Activity
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vigneshbarani24&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshbarani24&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+[![Vignesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vigneshbarani24&theme=github-dark&hide_border=true&area=true)](https://github.com/vigneshbarani24)
 
 ---
 
