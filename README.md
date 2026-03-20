@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Vignesh 👋
 
-<!--
-**vigneshbarani24/vigneshbarani24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI-powered tools for SAP consultants — turning complex enterprise workflows into automated, repeatable processes that you can't shortcut.
 
-Here are some ideas to get you started:
+Most of my work lives at the intersection of SAP and AI: enforced process workflows, specialized agents, and developer tooling that brings modern AI capabilities into the SAP ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I maintain [SAP Superpowers](https://github.com/vigneshbarani24/sap-superpowers), an open-source Claude Code plugin that gives SAP consultants 26 skills, 6 specialized agents, and hard-gated workflows for debugging, estimation, code review, and go-live readiness.
+
+**What I work on**
+
+- SAP × AI tooling: Claude Code plugins, MCP servers, agentic workflows for enterprise systems
+- Process-driven skills: enforced step-by-step workflows where you can't skip steps — debugging, estimation, go-live readiness
+- SAP modernization: S/4HANA migration, clean core code review, ABAP Cloud, BTP development
+- AI governance: quality gates and guardrails for AI-assisted enterprise workflows
+- Full SAP lifecycle coverage: functional (FI/CO, MM/SD, PP/PM), technical (ABAP, BTP, Fiori), and strategic (migration, value advisory, OCM)
+
+---
+
+### 🛠 Tech Stack
+
+`SAP ABAP` `S/4HANA` `BTP` `RAP/CDS` `Fiori` `Python` `TypeScript` `Shell` `Claude Code` `MCP` `AWS`
+
+---
+
+## About Me
+
+- **Developer at [KaarTech](https://www.kaartech.com/)**, building AI-first tools for SAP consulting teams
+- Based in **Portsmouth, UK** — working across SAP, Python, TypeScript, and Shell
+- Believer in **process over knowledge** — anyone can look up a tcode, but enforced workflows with hard gates actually prevent mistakes
+- 93 repos and counting — from SAP plugins to AI gatekeepers to AWS-based SAP recovery tools
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vigneshbarani24&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshbarani24&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+**🌱 Working on SAP modernization, AI agents for enterprise, or Claude Code plugins? I'd love to connect.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-vigneshbarani24-181717?style=flat&logo=github)](https://github.com/vigneshbarani24)
