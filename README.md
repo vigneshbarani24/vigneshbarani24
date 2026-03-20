@@ -22,12 +22,31 @@ I maintain [SAP Superpowers](https://github.com/vigneshbarani24/sap-superpowers)
 
 ---
 
+### 📂 93 Repos Across
+
+| Category | Focus Areas |
+|----------|-------------|
+| 🤖 **AI & Agents** | Claude Code plugins, MCP servers, AI governance, agentic workflows |
+| 🏢 **SAP** | S/4HANA, ABAP Cloud, BTP, Fiori, SAP Activate, clean core |
+| 🔧 **TypeScript** | AWS tooling, SAP recovery automation, cloud utilities |
+| 🐍 **Python** | AI gatekeepers, data pipelines, backend services |
+| 🐚 **Shell** | DevOps, CI/CD, plugin scaffolding, automation scripts |
+
+---
+
+### 💻 Languages
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshbarani24&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
+
+---
+
 ## About Me
 
 - **Developer at [KaarTech](https://www.kaartech.com/)**, building AI-first tools for SAP consulting teams
 - Based in **Portsmouth, UK**, working across SAP, Python, TypeScript, and Shell
 - Believer in **process over knowledge**: anyone can look up a tcode, but enforced workflows with hard gates actually prevent mistakes
-- 93 repos and counting, from SAP plugins to AI gatekeepers to AWS-based SAP recovery tools
 
 ---
 
