@@ -1,8 +1,9 @@
 # Hi, I'm Vignesh 👋
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=vigneshbarani24&label=Profile%20views&color=red&style=for-the-badge)](https://github.com/vigneshbarani24)
-[![Aayush Bharti | X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
+[![Vignesh Barani | X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-barani-sap-s4hana)
+[![Website](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://vigneshbarani-ai.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vigneshbarani24)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
